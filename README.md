@@ -1,16 +1,16 @@
 🌐 Rotating Sphere — ASCII C++
 A real-time ASCII art rotating sphere rendered directly in your Windows terminal. No libraries, no dependencies — just pure C++ and math.
-         . o O @ @ @ O o .        
-      o @ @ @ @ @ @ @ @ @ o       
-    O @ @ @ @ @ @ @ @ @ @ @ O     
-   @ @ @ @ @ @ @ @ @ @ @ @ @ @    
-  @ @ @ @ @ @ @ @ @ @ @ @ @ @ @   
- @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @  
-  @ @ @ @ @ @ @ @ @ @ @ @ @ @ @   
-   @ @ @ @ @ @ @ @ @ @ @ @ @ @    
-    O @ @ @ @ @ @ @ @ @ @ @ O     
-      o @ @ @ @ @ @ @ @ @ o       
-         . o O @ @ @ O o .
+........ . o O @ @ @ O o .        
+..... o @ @ @ @ @ @ @ @ @ o       
+....O @ @ @ @ @ @ @ @ @ @ @ O     
+...@ @ @ @ @ @ @ @ @ @ @ @ @ @    
+..@ @ @ @ @ @ @ @ @ @ @ @ @ @ @   
+.@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @  
+..@ @ @ @ @ @ @ @ @ @ @ @ @ @ @   
+...@ @ @ @ @ @ @ @ @ @ @ @ @ @    
+....O @ @ @ @ @ @ @ @ @ @ @ O     
+......o @ @ @ @ @ @ @ @ @ o       
+.......... o O @ @ @ O o .
 
 📋 Requirements
 
